@@ -1,5 +1,5 @@
 class Account {
   void display() {
-    System.out.println("Account Information: ");
+    System.out.println("Account Balance and Information");
   }
 }
